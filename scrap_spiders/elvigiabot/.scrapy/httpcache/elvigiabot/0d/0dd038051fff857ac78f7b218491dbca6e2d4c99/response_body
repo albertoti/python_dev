@@ -1,0 +1,1037 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>﻿Ultimas Noticias - ﻿El Vigía</title>
+<meta content="es" name="lang" />
+<meta content="1 days" name="revisit-after" />
+<meta content="INDEX, FOLLOW, NOODP" name="robots" />
+
+<script type="text/javascript" src="/a/javascript/jquery-1.12.3.min.js"></script>
+<script type="text/javascript" src="/a/javascript/jquery-ui/jquery-ui.min.js"></script>
+
+<script src="/a/javascript/lightbox/jquery.colorbox-min.js"></script>    
+<link rel="stylesheet" type="text/css" href="/a/javascript/lightbox/colorbox.css">
+
+
+<link href="http://www.elvigia.net/a/plantillas/1/css/estilos.css?id=05-02-18" rel="stylesheet" type="text/css" />
+<link href="/a/aps/modulos.css?id=05-02-18" rel="stylesheet" type="text/css"/>
+<link href="/a/aps/noticias/css/archivo.css" rel="stylesheet" type="text/css" /><link href="/a/aps/noticias/css/buscar.css" rel="stylesheet" type="text/css" /><link href="/a/aps/noticias/css/enimagenes.css" rel="stylesheet" type="text/css" /><link href="/a/aps/noticias/css/noticias.css" rel="stylesheet" type="text/css" />
+
+<link href="/a/plantillas/1/p/25/css/estilos.css?id=05-02-18" rel="stylesheet" type="text/css" />
+
+
+<script src="http://www.elvigia.net/a/javascript/efectos.js?id=05-02-18" type="text/javascript"></script>
+<script src="http://www.elvigia.net/a/javascript/scripts.js?id=05-02-18" type="text/javascript"></script>
+<script src="http://www.elvigia.net/a/javascript/AC_RunActiveContent.js" type="text/javascript"></script>  
+<script src="http://www.elvigia.net/a/javascript/jquery.sticky-kit.min.js?id=05-02-18" type="text/javascript"></script>
+<script type="text/javascript" src="/a/javascript/jquery.cycle2.min.js"></script>
+
+
+
+
+<meta property="fb:app_id" content="1411131939112576" />
+<meta property="fb:admins" content="1143227204,1027774991,1091292592" />
+
+
+<script src="/a/aps/noticias/js/fotogaleria.js"></script> 
+ <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2181278-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+<script src='https://www.google.com/recaptcha/api.js?hl=es'></script>
+
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+	
+	googletag.cmd.push(function() {
+								
+    googletag.defineSlot('/38852467/derecha(1)', [[300,250],[300,600],[300,200]], 'div-gpt-ad-derecha(1)').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+
+	googletag.pubads().setTargeting("sitio","Periódico El Vigía");
+	googletag.pubads().setTargeting("tipo","aplicacion");
+	googletag.pubads().setTargeting("aplicacion","noticias");
+	googletag.pubads().setTargeting("pagina","ultimas_noticias");	
+	googletag.pubads().setTargeting("var1","");	
+	googletag.pubads().setTargeting("var2","");	
+	googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+	googletag.pubads().enableSyncRendering();
+
+  });
+</script>
+
+
+</head>
+<body class="interna">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.3&appId=1411131939112576";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="bn_flotantes_wrap">
+
+
+
+  <div class="bn_flotante_contenido"  style="position:absolute;"> <!-- style="position:absolute;" -->
+
+    <div>
+      <div class="bn_flotante_li" >
+ <div class="mb15"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Generico 160x600 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-3504695253334741"
+     data-ad-slot="1015001119"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+      </div>
+
+      <div class="bn_flotante_ld" >
+
+      </div>
+    </div>
+  </div>
+  <div class="bn_flotante_top"></div>
+</div>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+    
+<div class="cabecera"><!-- cabecera -->
+
+
+		<!-- BARRA SUPERIOR -->
+        <div class="barra_sup cf">
+              <div class="contenedor cf" >
+                  <div class="f-left">
+                      <div class="dia">martes, 08 de mayo de 2018</div>
+                  </div>
+                  <div class="buscador">
+                      <form action="/u/aps/noticias/buscar.html"  method="get" id="buscar">
+                          <input type="text" name="buscar" class="busqueda" value="Buscar..." onfocus="if(this.value=='Buscar...') this.value=''" onblur="if(this.value=='') this.value='Buscar...'" />
+                          <input type="image" src="/a/plantillas/1/p/25/imgs/buscar.png" width="20" name="buscar" class="busqueda_btn" value="" />
+                      </form>
+                  </div>
+                
+                      <div class="seguinos_top">
+                          <span>BÚSCANOS EN:</span>
+                          <a href="http://www.facebook.com/elvigia" target="_blank"><img src="/a/plantillas/1/p/25/imgs/face-top.jpg" height="18" width="18" /></a>
+                          <a href="http://twitter.com/elvigia" target="_blank"><img src="/a/plantillas/1/p/25/imgs/twt-top.jpg" height="18" width="18" /></a>
+                          <a href="http://www.youtube.com/periodicoelvigia" target="_blank"><img src="/a/plantillas/1/p/25/imgs/youtube.jpg" height="18" width="18" /></a>
+                          <a href="#"><img src="/a/plantillas/1/p/25/imgs/rss-top.jpg" height="18" width="18" /></a>
+                      </div>
+                  
+              </div>
+  </div> 
+        
+        
+        <!-- ZONA CENTRAL ===================================== -->
+            
+              <div class="zona-central">
+				<div class="contenedor cf">                    
+        
+                      
+                      <!-- ver noticias ultima hora -->
+                      <div class="ver-ultima-hora">
+                              <strong><a href="/noticias/">Ver Noticias <br/> de Última Hora</a></strong>
+                              <p>11:17 hs</p>                        
+                      </div>
+                      
+
+					<!-- ver edicion impresa -->
+                         <div class="edicion-impresa">
+                            <a href="http://servicios.elvigia.net/" class="edi_imp">
+                            	<span>Edición impresa</span>
+                            	<img src="/a/plantillas/1/p/25/imgs/header-tapa.png" alt="">
+                           </a>
+                        </div>
+
+                      
+                    
+                      <!-- link newsletter -->
+                      <a href="/u/aps/usuarios/newsletter.html" class="inscripcion">El Vigía en tu e-mail</a>
+                      
+	                  <!-- logo -->
+                  <div class="logo"><a href="/"><img src="/a/plantillas/1/p/25/imgs/logo-cabecera2.png" alt="El Vigía" /></a></div>
+                  
+                  
+                  
+                       <!-- registro -->
+                       
+                        <div class="registro">
+                                              
+							  
+                                                  
+                                <div class="usuario2">
+                                    <a href="/usuarios/ingresar_l.html" class="pp_abierto">
+                                        <strong>Ingresar</strong>
+                                    </a>
+                                 </div>
+                                     
+                                               
+                                                   
+						</div>
+                                                
+				</div>
+              </div>
+            <!-- FIN BARRA SUPERIOR -->
+
+</div><!-- fin cabecera -->
+
+
+<!-- barra menu -->
+<div class="barra-menu">
+
+    <div class="contenedor">
+	
+      <!-- menu principal -->
+      <ul class="menu">
+        
+      
+      <li><a href="/">Portada</a></li>  
+      <li><a href="/general/">General</a></li>
+        
+      <li><a href="/el-valle/">El Valle</a></li>
+        
+      <li><a href="/deportes/">Meta Deportiva</a>
+      <ul class="sub-flotante">
+      
+      <li><a href="/deportes/beisbol/">Beisbol</a></li>
+      
+      <li><a href="/deportes/futbol/">Futbol </a></li>
+      
+      <li><a href="/deportes/softbol/">Softbol</a></li>
+      
+      <li><a href="/deportes/futbol-americano-flag/">Futbol Americano & Flag</a></li>
+      
+      <li><a href="/deportes/box/">Box</a></li>
+      
+      <li><a href="/deportes/offroad/">OffRoad</a></li>
+      
+      <li><a href="/deportes/voleibol/">Voleibol</a></li>
+      
+      <li><a href="/deportes/baloncesto/">Baloncesto</a></li>
+      
+      <li><a href="/deportes/otros/">Otros</a></li>
+      
+      </ul>
+        
+      </li>
+        
+      <li><a href="/nacional/">Nacional</a></li>
+        
+      <li><a href="/el-mundo/">El Mundo</a></li>
+        
+      <li><a href="/vida/">Vida</a></li>
+        
+      <li><a href="/espectaculos/">Miradas</a></li>
+        
+      <li><a href="/911/">911</a></li>
+        
+        
+        <li><a href="/Columnas/">Columnas</a></li>
+        <li><a href="http://servicios.elvigia.net/" target="_blank">Suscripciones</a></li>
+        <li><a href="/suplementos/">Suplementos</a></li>
+        <li><a href="/clasificados/">Clasificados</a></li>    
+      </ul>
+      
+      
+      <!-- Sub Menu  -->
+      <ul class="submenu" >
+      <li><a href="/u/aps/noticias/ultimas_noticias.html">Ultimas Noticias</a></li>
+      <li><a href="/palabra/">Palabra</a></li>
+      <li><a href="/contacto/">Suscripción</a></li>
+      <li><a href="/u/aps/horoscopo/">Horóscopos</a></li>
+      <!-- <li><a href="/u/aps/edicion-impresa/edicionimpresa.html">Edición Impresa</a></li> -->
+      <li><a href="/p/institucional/directorio.html">Directorio</a></li>
+      <li><a href="/archivo/2018/5/8/">Archivo</a></li>
+      </ul>
+      
+    </div>
+    
+</div>
+
+ 			 
+<div class="wrap">
+    <div class="contenedor">
+        <div class="seccion">
+
+            <div class="col3 notafinal">
+                    <div class="col3_cont pt20 cf"> 
+
+                    
+                                        
+                <div class="col1">
+                
+                <div class="w620 ultimoInf">
+    <div class="cabezal620">Ultimas Noticias</div>
+<script type="text/javascript">
+    var pagesql=1;
+    function maslistadoUN(){
+      $("#vermasboton").hide();
+      pagesql= pagesql+1;
+      $.post("/a/aps/noticias/includes/ajax/listadoUN.asp",{page: pagesql},function(data){
+        if(data!="")
+        {
+          $(".ultimoInf").append(data);
+          $("#vermasboton").show();
+        }else
+        {
+          $("#vermasboton").hide();
+        }
+      });
+   }
+  
+</script>
+     
+
+
+  <div class="titulos-secciones2 clearfix"><h3>martes, 8 de mayo de 2018</h3></div>
+
+
+       <div class="nota620_apaisada nota">
+
+                    <div class="fotoNota w180" style="min-height:5px;">
+                                        <a href="/911/2018/5/8/arrestan-presunto-asaltante-gerente-303064.html"><img src="/u/fotografias/m/2018/5/7/f180x103-370192_372858_63.jpg" border="0" width="180" alt="Arrestan a presunto asaltante de gerente" /></a> </div>
+
+                    <div class="cont wl430">
+                      <div class="volanta">911</div>
+                      <h5><a href="/911/2018/5/8/arrestan-presunto-asaltante-gerente-303064.html">Arrestan a presunto asaltante de gerente</a></h5>
+                        <p><span class="hora">08/05/2018&nbsp;|&nbsp;</span>Las pruebas establecen la probable participación del detenido y otro sujeto, en hechos ocurridos el pasado 4 de mayo</p>
+                        
+                     
+                          <div class="nota_herramientas">
+        <div class="nota_compartir">
+                                  <a href="javascript:Popup('http://www.facebook.com/sharer/sharer.php?u=http://www.elvigia.net/911/2018/5/8/arrestan-presunto-asaltante-gerente-303064.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_face.png" alt="" /></a>
+                                  <a href="javascript:Popup('http://twitter.com/share?url=http://www.elvigia.net/911/2018/5/8/arrestan-presunto-asaltante-gerente-303064.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_twt.png" alt="" /></a>
+                                  <a href="javascript:Popup('https://plus.google.com/share?url=http://www.elvigia.net/911/2018/5/8/arrestan-presunto-asaltante-gerente-303064.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_plus.png" alt="" /></a>
+                              </div>
+         <div class="comentarios"><a href="/911/2018/5/8/arrestan-presunto-asaltante-gerente-303064.html#comentarios">0</a></div>
+    </div>
+                    </div>
+
+
+</div>
+
+
+       <div class="nota620_apaisada nota">
+
+                    <div class="fotoNota w180" style="min-height:5px;">
+                                        <a href="/911/2018/5/8/roban-sujetos-droga-bodega-303065.html"><img src="/u/fotografias/m/2018/5/7/f180x103-370194_372860_14.jpg" border="0" width="180" alt="Roban sujetos droga de bodega de la PGR" /></a> </div>
+
+                    <div class="cont wl430">
+                      <div class="volanta">911</div>
+                      <h5><a href="/911/2018/5/8/roban-sujetos-droga-bodega-303065.html">Roban sujetos droga de bodega de la PGR</a></h5>
+                        <p><span class="hora">08/05/2018&nbsp;|&nbsp;</span></p>
+                        
+                     
+                          <div class="nota_herramientas">
+        <div class="nota_compartir">
+                                  <a href="javascript:Popup('http://www.facebook.com/sharer/sharer.php?u=http://www.elvigia.net/911/2018/5/8/roban-sujetos-droga-bodega-303065.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_face.png" alt="" /></a>
+                                  <a href="javascript:Popup('http://twitter.com/share?url=http://www.elvigia.net/911/2018/5/8/roban-sujetos-droga-bodega-303065.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_twt.png" alt="" /></a>
+                                  <a href="javascript:Popup('https://plus.google.com/share?url=http://www.elvigia.net/911/2018/5/8/roban-sujetos-droga-bodega-303065.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_plus.png" alt="" /></a>
+                              </div>
+         <div class="comentarios"><a href="/911/2018/5/8/roban-sujetos-droga-bodega-303065.html#comentarios">0</a></div>
+    </div>
+                    </div>
+
+
+</div>
+
+
+       <div class="nota620_apaisada nota">
+
+                    <div class="fotoNota w180" style="min-height:5px;">
+                                         </div>
+
+                    <div class="cont wl430">
+                      <div class="volanta">911</div>
+                      <h5><a href="/911/2018/5/8/detienen-prfugo-narcomenudeo-303066.html">Detienen a prófugo por narcomenudeo</a></h5>
+                        <p><span class="hora">08/05/2018&nbsp;|&nbsp;</span></p>
+                        
+                     
+                          <div class="nota_herramientas">
+        <div class="nota_compartir">
+                                  <a href="javascript:Popup('http://www.facebook.com/sharer/sharer.php?u=http://www.elvigia.net/911/2018/5/8/detienen-prfugo-narcomenudeo-303066.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_face.png" alt="" /></a>
+                                  <a href="javascript:Popup('http://twitter.com/share?url=http://www.elvigia.net/911/2018/5/8/detienen-prfugo-narcomenudeo-303066.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_twt.png" alt="" /></a>
+                                  <a href="javascript:Popup('https://plus.google.com/share?url=http://www.elvigia.net/911/2018/5/8/detienen-prfugo-narcomenudeo-303066.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_plus.png" alt="" /></a>
+                              </div>
+         <div class="comentarios"><a href="/911/2018/5/8/detienen-prfugo-narcomenudeo-303066.html#comentarios">0</a></div>
+    </div>
+                    </div>
+
+
+</div>
+
+
+       <div class="nota620_apaisada nota">
+
+                    <div class="fotoNota w180" style="min-height:5px;">
+                                        <a href="/911/2018/5/8/asegurado-cristal-303067.html"><img src="/u/fotografias/m/2018/5/7/f180x103-370195_372861_0.jpg" border="0" width="180" alt="Asegurado con 60 gr de cristal" /></a> </div>
+
+                    <div class="cont wl430">
+                      <div class="volanta">911</div>
+                      <h5><a href="/911/2018/5/8/asegurado-cristal-303067.html">Asegurado con 60 gr de cristal</a></h5>
+                        <p><span class="hora">08/05/2018&nbsp;|&nbsp;</span></p>
+                        
+                     
+                          <div class="nota_herramientas">
+        <div class="nota_compartir">
+                                  <a href="javascript:Popup('http://www.facebook.com/sharer/sharer.php?u=http://www.elvigia.net/911/2018/5/8/asegurado-cristal-303067.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_face.png" alt="" /></a>
+                                  <a href="javascript:Popup('http://twitter.com/share?url=http://www.elvigia.net/911/2018/5/8/asegurado-cristal-303067.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_twt.png" alt="" /></a>
+                                  <a href="javascript:Popup('https://plus.google.com/share?url=http://www.elvigia.net/911/2018/5/8/asegurado-cristal-303067.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_plus.png" alt="" /></a>
+                              </div>
+         <div class="comentarios"><a href="/911/2018/5/8/asegurado-cristal-303067.html#comentarios">0</a></div>
+    </div>
+                    </div>
+
+
+</div>
+
+
+       <div class="nota620_apaisada nota">
+
+                    <div class="fotoNota w180" style="min-height:5px;">
+                                         </div>
+
+                    <div class="cont wl430">
+                      <div class="volanta">911</div>
+                      <h5><a href="/911/2018/5/8/choca-conductora-alcoholizada-303068.html">Choca conductora por ir alcoholizada</a></h5>
+                        <p><span class="hora">08/05/2018&nbsp;|&nbsp;</span></p>
+                        
+                     
+                          <div class="nota_herramientas">
+        <div class="nota_compartir">
+                                  <a href="javascript:Popup('http://www.facebook.com/sharer/sharer.php?u=http://www.elvigia.net/911/2018/5/8/choca-conductora-alcoholizada-303068.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_face.png" alt="" /></a>
+                                  <a href="javascript:Popup('http://twitter.com/share?url=http://www.elvigia.net/911/2018/5/8/choca-conductora-alcoholizada-303068.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_twt.png" alt="" /></a>
+                                  <a href="javascript:Popup('https://plus.google.com/share?url=http://www.elvigia.net/911/2018/5/8/choca-conductora-alcoholizada-303068.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_plus.png" alt="" /></a>
+                              </div>
+         <div class="comentarios"><a href="/911/2018/5/8/choca-conductora-alcoholizada-303068.html#comentarios">0</a></div>
+    </div>
+                    </div>
+
+
+</div>
+
+
+       <div class="nota620_apaisada nota">
+
+                    <div class="fotoNota w180" style="min-height:5px;">
+                                        <a href="/911/2018/5/8/recuperan-carros-robados-303069.html"><img src="/u/fotografias/m/2018/5/7/f180x103-370196_372862_15.jpg" border="0" width="180" alt="Recuperan 61 carros robados" /></a> </div>
+
+                    <div class="cont wl430">
+                      <div class="volanta">911</div>
+                      <h5><a href="/911/2018/5/8/recuperan-carros-robados-303069.html">Recuperan 61 carros robados</a></h5>
+                        <p><span class="hora">08/05/2018&nbsp;|&nbsp;</span></p>
+                        
+                     
+                          <div class="nota_herramientas">
+        <div class="nota_compartir">
+                                  <a href="javascript:Popup('http://www.facebook.com/sharer/sharer.php?u=http://www.elvigia.net/911/2018/5/8/recuperan-carros-robados-303069.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_face.png" alt="" /></a>
+                                  <a href="javascript:Popup('http://twitter.com/share?url=http://www.elvigia.net/911/2018/5/8/recuperan-carros-robados-303069.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_twt.png" alt="" /></a>
+                                  <a href="javascript:Popup('https://plus.google.com/share?url=http://www.elvigia.net/911/2018/5/8/recuperan-carros-robados-303069.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_plus.png" alt="" /></a>
+                              </div>
+         <div class="comentarios"><a href="/911/2018/5/8/recuperan-carros-robados-303069.html#comentarios">0</a></div>
+    </div>
+                    </div>
+
+
+</div>
+
+
+       <div class="nota620_apaisada nota">
+
+                    <div class="fotoNota w180" style="min-height:5px;">
+                                        <a href="/911/2018/5/8/tipo-posesin-metanfetamina-303070.html"><img src="/u/fotografias/m/2018/5/7/f180x103-370197_372863_19.jpg" border="0" width="180" alt="Cae tipo en posesión de metanfetamina" /></a> </div>
+
+                    <div class="cont wl430">
+                      <div class="volanta">911</div>
+                      <h5><a href="/911/2018/5/8/tipo-posesin-metanfetamina-303070.html">Cae tipo en posesión de metanfetamina</a></h5>
+                        <p><span class="hora">08/05/2018&nbsp;|&nbsp;</span></p>
+                        
+                     
+                          <div class="nota_herramientas">
+        <div class="nota_compartir">
+                                  <a href="javascript:Popup('http://www.facebook.com/sharer/sharer.php?u=http://www.elvigia.net/911/2018/5/8/tipo-posesin-metanfetamina-303070.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_face.png" alt="" /></a>
+                                  <a href="javascript:Popup('http://twitter.com/share?url=http://www.elvigia.net/911/2018/5/8/tipo-posesin-metanfetamina-303070.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_twt.png" alt="" /></a>
+                                  <a href="javascript:Popup('https://plus.google.com/share?url=http://www.elvigia.net/911/2018/5/8/tipo-posesin-metanfetamina-303070.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_plus.png" alt="" /></a>
+                              </div>
+         <div class="comentarios"><a href="/911/2018/5/8/tipo-posesin-metanfetamina-303070.html#comentarios">0</a></div>
+    </div>
+                    </div>
+
+
+</div>
+
+
+       <div class="nota620_apaisada nota">
+
+                    <div class="fotoNota w180" style="min-height:5px;">
+                                         </div>
+
+                    <div class="cont wl430">
+                      <div class="volanta">EL MUNDO</div>
+                      <h5><a href="/el-mundo/2018/5/8/breves-mundo-303075.html">Breves El Mundo</a></h5>
+                        <p><span class="hora">08/05/2018&nbsp;|&nbsp;</span></p>
+                        
+                     
+                          <div class="nota_herramientas">
+        <div class="nota_compartir">
+                                  <a href="javascript:Popup('http://www.facebook.com/sharer/sharer.php?u=http://www.elvigia.net/el-mundo/2018/5/8/breves-mundo-303075.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_face.png" alt="" /></a>
+                                  <a href="javascript:Popup('http://twitter.com/share?url=http://www.elvigia.net/el-mundo/2018/5/8/breves-mundo-303075.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_twt.png" alt="" /></a>
+                                  <a href="javascript:Popup('https://plus.google.com/share?url=http://www.elvigia.net/el-mundo/2018/5/8/breves-mundo-303075.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_plus.png" alt="" /></a>
+                              </div>
+         <div class="comentarios"><a href="/el-mundo/2018/5/8/breves-mundo-303075.html#comentarios">0</a></div>
+    </div>
+                    </div>
+
+
+</div>
+
+
+       <div class="nota620_apaisada nota">
+
+                    <div class="fotoNota w180" style="min-height:5px;">
+                                        <a href="/nacional/2018/5/8/quedan-deber-infraestructura-303071.html"><img src="/u/fotografias/m/2018/5/7/f180x103-370136_372802_14.jpg" border="0" width="180" alt="Quedan a deber en infraestructura" /></a> </div>
+
+                    <div class="cont wl430">
+                      <div class="volanta">NACIONAL</div>
+                      <h5><a href="/nacional/2018/5/8/quedan-deber-infraestructura-303071.html">Quedan a deber en infraestructura</a></h5>
+                        <p><span class="hora">08/05/2018&nbsp;|&nbsp;</span>La meta prevista en inversión física en el PNI 2014-2018 de este Gobierno no se alcanzará, ya que el avance será del 73%, estimó la CMIC</p>
+                        
+                     
+                          <div class="nota_herramientas">
+        <div class="nota_compartir">
+                                  <a href="javascript:Popup('http://www.facebook.com/sharer/sharer.php?u=http://www.elvigia.net/nacional/2018/5/8/quedan-deber-infraestructura-303071.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_face.png" alt="" /></a>
+                                  <a href="javascript:Popup('http://twitter.com/share?url=http://www.elvigia.net/nacional/2018/5/8/quedan-deber-infraestructura-303071.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_twt.png" alt="" /></a>
+                                  <a href="javascript:Popup('https://plus.google.com/share?url=http://www.elvigia.net/nacional/2018/5/8/quedan-deber-infraestructura-303071.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_plus.png" alt="" /></a>
+                              </div>
+         <div class="comentarios"><a href="/nacional/2018/5/8/quedan-deber-infraestructura-303071.html#comentarios">0</a></div>
+    </div>
+                    </div>
+
+
+</div>
+
+
+       <div class="nota620_apaisada nota">
+
+                    <div class="fotoNota w180" style="min-height:5px;">
+                                        <a href="/nacional/2018/5/8/retoma-corte-caso-303072.html"><img src="/u/fotografias/m/2018/5/7/f180x103-370137_372803_14.jpg" border="0" width="180" alt="Retoma Corte caso ABC" /></a> </div>
+
+                    <div class="cont wl430">
+                      <div class="volanta">NACIONAL</div>
+                      <h5><a href="/nacional/2018/5/8/retoma-corte-caso-303072.html">Retoma Corte caso ABC</a></h5>
+                        <p><span class="hora">08/05/2018&nbsp;|&nbsp;</span></p>
+                        
+                     
+                          <div class="nota_herramientas">
+        <div class="nota_compartir">
+                                  <a href="javascript:Popup('http://www.facebook.com/sharer/sharer.php?u=http://www.elvigia.net/nacional/2018/5/8/retoma-corte-caso-303072.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_face.png" alt="" /></a>
+                                  <a href="javascript:Popup('http://twitter.com/share?url=http://www.elvigia.net/nacional/2018/5/8/retoma-corte-caso-303072.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_twt.png" alt="" /></a>
+                                  <a href="javascript:Popup('https://plus.google.com/share?url=http://www.elvigia.net/nacional/2018/5/8/retoma-corte-caso-303072.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_plus.png" alt="" /></a>
+                              </div>
+         <div class="comentarios"><a href="/nacional/2018/5/8/retoma-corte-caso-303072.html#comentarios">0</a></div>
+    </div>
+                    </div>
+
+
+</div>
+
+
+       <div class="nota620_apaisada nota">
+
+                    <div class="fotoNota w180" style="min-height:5px;">
+                                        <a href="/nacional/2018/5/8/cuestiona-mxico-informe-303073.html"><img src="/u/fotografias/m/2018/5/7/f180x103-370198_372864_14.jpg" border="0" width="180" alt="Cuestiona México informe de la ONU" /></a> </div>
+
+                    <div class="cont wl430">
+                      <div class="volanta">NACIONAL</div>
+                      <h5><a href="/nacional/2018/5/8/cuestiona-mxico-informe-303073.html">Cuestiona México informe de la ONU</a></h5>
+                        <p><span class="hora">08/05/2018&nbsp;|&nbsp;</span></p>
+                        
+                     
+                          <div class="nota_herramientas">
+        <div class="nota_compartir">
+                                  <a href="javascript:Popup('http://www.facebook.com/sharer/sharer.php?u=http://www.elvigia.net/nacional/2018/5/8/cuestiona-mxico-informe-303073.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_face.png" alt="" /></a>
+                                  <a href="javascript:Popup('http://twitter.com/share?url=http://www.elvigia.net/nacional/2018/5/8/cuestiona-mxico-informe-303073.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_twt.png" alt="" /></a>
+                                  <a href="javascript:Popup('https://plus.google.com/share?url=http://www.elvigia.net/nacional/2018/5/8/cuestiona-mxico-informe-303073.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_plus.png" alt="" /></a>
+                              </div>
+         <div class="comentarios"><a href="/nacional/2018/5/8/cuestiona-mxico-informe-303073.html#comentarios">0</a></div>
+    </div>
+                    </div>
+
+
+</div>
+
+
+       <div class="nota620_apaisada nota">
+
+                    <div class="fotoNota w180" style="min-height:5px;">
+                                        <a href="/nacional/2018/5/8/marchan-desaparecidas-303074.html"><img src="/u/fotografias/m/2018/5/7/f180x103-370138_372804_0.jpg" border="0" width="180" alt="Marchan por desaparecidas" /></a> </div>
+
+                    <div class="cont wl430">
+                      <div class="volanta">NACIONAL</div>
+                      <h5><a href="/nacional/2018/5/8/marchan-desaparecidas-303074.html">Marchan por desaparecidas</a></h5>
+                        <p><span class="hora">08/05/2018&nbsp;|&nbsp;</span></p>
+                        
+                     
+                          <div class="nota_herramientas">
+        <div class="nota_compartir">
+                                  <a href="javascript:Popup('http://www.facebook.com/sharer/sharer.php?u=http://www.elvigia.net/nacional/2018/5/8/marchan-desaparecidas-303074.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_face.png" alt="" /></a>
+                                  <a href="javascript:Popup('http://twitter.com/share?url=http://www.elvigia.net/nacional/2018/5/8/marchan-desaparecidas-303074.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_twt.png" alt="" /></a>
+                                  <a href="javascript:Popup('https://plus.google.com/share?url=http://www.elvigia.net/nacional/2018/5/8/marchan-desaparecidas-303074.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_plus.png" alt="" /></a>
+                              </div>
+         <div class="comentarios"><a href="/nacional/2018/5/8/marchan-desaparecidas-303074.html#comentarios">0</a></div>
+    </div>
+                    </div>
+
+
+</div>
+
+
+       <div class="nota620_apaisada nota">
+
+                    <div class="fotoNota w180" style="min-height:5px;">
+                                        <a href="/deportes/futbol-americano-flag/2018/5/8/doble-triunfo-osos-ante-aztecas-303058.html"><img src="/u/fotografias/m/2018/5/7/f180x103-370127_372793_31.jpg" border="0" width="180" alt="Doble triunfo de  Osos ante Aztecas" /></a> </div>
+
+                    <div class="cont wl430">
+                      <div class="volanta">#FUTBOLAMERICANO</div>
+                      <h5><a href="/deportes/futbol-americano-flag/2018/5/8/doble-triunfo-osos-ante-aztecas-303058.html">Doble triunfo de  Osos ante Aztecas</a></h5>
+                        <p><span class="hora">08/05/2018&nbsp;|&nbsp;</span>Temporada Primavera 2018 de la Organización Estudiantil de Futbol Americano de Baja California</p>
+                        
+                     
+                          <div class="nota_herramientas">
+        <div class="nota_compartir">
+                                  <a href="javascript:Popup('http://www.facebook.com/sharer/sharer.php?u=http://www.elvigia.net/deportes/futbol-americano-flag/2018/5/8/doble-triunfo-osos-ante-aztecas-303058.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_face.png" alt="" /></a>
+                                  <a href="javascript:Popup('http://twitter.com/share?url=http://www.elvigia.net/deportes/futbol-americano-flag/2018/5/8/doble-triunfo-osos-ante-aztecas-303058.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_twt.png" alt="" /></a>
+                                  <a href="javascript:Popup('https://plus.google.com/share?url=http://www.elvigia.net/deportes/futbol-americano-flag/2018/5/8/doble-triunfo-osos-ante-aztecas-303058.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_plus.png" alt="" /></a>
+                              </div>
+         <div class="comentarios"><a href="/deportes/futbol-americano-flag/2018/5/8/doble-triunfo-osos-ante-aztecas-303058.html#comentarios">0</a></div>
+    </div>
+                    </div>
+
+
+</div>
+
+
+       <div class="nota620_apaisada nota">
+
+                    <div class="fotoNota w180" style="min-height:5px;">
+                                        <a href="/deportes/beisbol/2018/5/8/ganan-frailes-leones-dodgers-303059.html"><img src="/u/fotografias/m/2018/5/7/f180x103-370129_372795_56.jpg" border="0" width="180" alt="Ganan Frailes, Leones y Dodgers" /></a> </div>
+
+                    <div class="cont wl430">
+                      <div class="volanta">META DEPORTIVA</div>
+                      <h5><a href="/deportes/beisbol/2018/5/8/ganan-frailes-leones-dodgers-303059.html">Ganan Frailes, Leones y Dodgers</a></h5>
+                        <p><span class="hora">08/05/2018&nbsp;|&nbsp;</span></p>
+                        
+                     
+                          <div class="nota_herramientas">
+        <div class="nota_compartir">
+                                  <a href="javascript:Popup('http://www.facebook.com/sharer/sharer.php?u=http://www.elvigia.net/deportes/beisbol/2018/5/8/ganan-frailes-leones-dodgers-303059.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_face.png" alt="" /></a>
+                                  <a href="javascript:Popup('http://twitter.com/share?url=http://www.elvigia.net/deportes/beisbol/2018/5/8/ganan-frailes-leones-dodgers-303059.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_twt.png" alt="" /></a>
+                                  <a href="javascript:Popup('https://plus.google.com/share?url=http://www.elvigia.net/deportes/beisbol/2018/5/8/ganan-frailes-leones-dodgers-303059.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_plus.png" alt="" /></a>
+                              </div>
+         <div class="comentarios"><a href="/deportes/beisbol/2018/5/8/ganan-frailes-leones-dodgers-303059.html#comentarios">0</a></div>
+    </div>
+                    </div>
+
+
+</div>
+
+
+       <div class="nota620_apaisada nota">
+
+                    <div class="fotoNota w180" style="min-height:5px;">
+                                        <a href="/deportes/beisbol/2018/5/8/dice-adis-hombre-detrs-plato-303060.html"><img src="/u/fotografias/m/2018/5/7/f180x103-370130_372796_22.jpg" border="0" width="180" alt="Dice adiós el hombre detrás del plato" /></a> </div>
+
+                    <div class="cont wl430">
+                      <div class="volanta">#ENLAMIRA</div>
+                      <h5><a href="/deportes/beisbol/2018/5/8/dice-adis-hombre-detrs-plato-303060.html">Dice adiós el hombre detrás del plato</a></h5>
+                        <p><span class="hora">08/05/2018&nbsp;|&nbsp;</span>Héctor Rolando Ceseña Albáñez se despidió el domingo del beisbol, después de una carrera de 25 años como ampáyer</p>
+                        
+                     
+                          <div class="nota_herramientas">
+        <div class="nota_compartir">
+                                  <a href="javascript:Popup('http://www.facebook.com/sharer/sharer.php?u=http://www.elvigia.net/deportes/beisbol/2018/5/8/dice-adis-hombre-detrs-plato-303060.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_face.png" alt="" /></a>
+                                  <a href="javascript:Popup('http://twitter.com/share?url=http://www.elvigia.net/deportes/beisbol/2018/5/8/dice-adis-hombre-detrs-plato-303060.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_twt.png" alt="" /></a>
+                                  <a href="javascript:Popup('https://plus.google.com/share?url=http://www.elvigia.net/deportes/beisbol/2018/5/8/dice-adis-hombre-detrs-plato-303060.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_plus.png" alt="" /></a>
+                              </div>
+         <div class="comentarios"><a href="/deportes/beisbol/2018/5/8/dice-adis-hombre-detrs-plato-303060.html#comentarios">0</a></div>
+    </div>
+                    </div>
+
+
+</div>
+
+
+       <div class="nota620_apaisada nota">
+
+                    <div class="fotoNota w180" style="min-height:5px;">
+                                        <a href="/deportes/futbol/2018/5/8/dice-monterrey-adis-mohamed-303061.html"><img src="/u/fotografias/m/2018/5/7/f180x103-370131_372797_17.jpg" border="0" width="180" alt="Dice el Monterrey  adiós a Mohamed" /></a> </div>
+
+                    <div class="cont wl430">
+                      <div class="volanta">#LIGAMX</div>
+                      <h5><a href="/deportes/futbol/2018/5/8/dice-monterrey-adis-mohamed-303061.html">Dice el Monterrey  adiós a Mohamed</a></h5>
+                        <p><span class="hora">08/05/2018&nbsp;|&nbsp;</span>La era el “Turco” con Rayados llegó a su fin, tras renunciar el técnico argentino del cargo</p>
+                        
+                     
+                          <div class="nota_herramientas">
+        <div class="nota_compartir">
+                                  <a href="javascript:Popup('http://www.facebook.com/sharer/sharer.php?u=http://www.elvigia.net/deportes/futbol/2018/5/8/dice-monterrey-adis-mohamed-303061.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_face.png" alt="" /></a>
+                                  <a href="javascript:Popup('http://twitter.com/share?url=http://www.elvigia.net/deportes/futbol/2018/5/8/dice-monterrey-adis-mohamed-303061.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_twt.png" alt="" /></a>
+                                  <a href="javascript:Popup('https://plus.google.com/share?url=http://www.elvigia.net/deportes/futbol/2018/5/8/dice-monterrey-adis-mohamed-303061.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_plus.png" alt="" /></a>
+                              </div>
+         <div class="comentarios"><a href="/deportes/futbol/2018/5/8/dice-monterrey-adis-mohamed-303061.html#comentarios">0</a></div>
+    </div>
+                    </div>
+
+
+</div>
+
+
+       <div class="nota620_apaisada nota">
+
+                    <div class="fotoNota w180" style="min-height:5px;">
+                                        <a href="/deportes/futbol/2018/5/8/confan-gallos-rafa-puente-303062.html"><img src="/u/fotografias/m/2018/5/7/f180x103-370132_372798_20.jpg" border="0" width="180" alt="Confían Gallos en Rafa Puente" /></a> </div>
+
+                    <div class="cont wl430">
+                      <div class="volanta">META DEPORTIVA</div>
+                      <h5><a href="/deportes/futbol/2018/5/8/confan-gallos-rafa-puente-303062.html">Confían Gallos en Rafa Puente</a></h5>
+                        <p><span class="hora">08/05/2018&nbsp;|&nbsp;</span></p>
+                        
+                     
+                          <div class="nota_herramientas">
+        <div class="nota_compartir">
+                                  <a href="javascript:Popup('http://www.facebook.com/sharer/sharer.php?u=http://www.elvigia.net/deportes/futbol/2018/5/8/confan-gallos-rafa-puente-303062.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_face.png" alt="" /></a>
+                                  <a href="javascript:Popup('http://twitter.com/share?url=http://www.elvigia.net/deportes/futbol/2018/5/8/confan-gallos-rafa-puente-303062.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_twt.png" alt="" /></a>
+                                  <a href="javascript:Popup('https://plus.google.com/share?url=http://www.elvigia.net/deportes/futbol/2018/5/8/confan-gallos-rafa-puente-303062.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_plus.png" alt="" /></a>
+                              </div>
+         <div class="comentarios"><a href="/deportes/futbol/2018/5/8/confan-gallos-rafa-puente-303062.html#comentarios">0</a></div>
+    </div>
+                    </div>
+
+
+</div>
+
+
+       <div class="nota620_apaisada nota">
+
+                    <div class="fotoNota w180" style="min-height:5px;">
+                                        <a href="/deportes/futbol/2018/5/8/llega-pelez-cruz-azul-yayo-303063.html"><img src="/u/fotografias/m/2018/5/7/f180x103-370133_372799_2.jpg" border="0" width="180" alt="Llega Peláez a Cruz Azul por el ‘Yayo’" /></a> </div>
+
+                    <div class="cont wl430">
+                      <div class="volanta">META DEPORTIVA</div>
+                      <h5><a href="/deportes/futbol/2018/5/8/llega-pelez-cruz-azul-yayo-303063.html">Llega Peláez a Cruz Azul por el ‘Yayo’</a></h5>
+                        <p><span class="hora">08/05/2018&nbsp;|&nbsp;</span></p>
+                        
+                     
+                          <div class="nota_herramientas">
+        <div class="nota_compartir">
+                                  <a href="javascript:Popup('http://www.facebook.com/sharer/sharer.php?u=http://www.elvigia.net/deportes/futbol/2018/5/8/llega-pelez-cruz-azul-yayo-303063.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_face.png" alt="" /></a>
+                                  <a href="javascript:Popup('http://twitter.com/share?url=http://www.elvigia.net/deportes/futbol/2018/5/8/llega-pelez-cruz-azul-yayo-303063.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_twt.png" alt="" /></a>
+                                  <a href="javascript:Popup('https://plus.google.com/share?url=http://www.elvigia.net/deportes/futbol/2018/5/8/llega-pelez-cruz-azul-yayo-303063.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_plus.png" alt="" /></a>
+                              </div>
+         <div class="comentarios"><a href="/deportes/futbol/2018/5/8/llega-pelez-cruz-azul-yayo-303063.html#comentarios">0</a></div>
+    </div>
+                    </div>
+
+
+</div>
+
+
+       <div class="nota620_apaisada nota">
+
+                    <div class="fotoNota w180" style="min-height:5px;">
+                                        <a href="/deportes/baloncesto/2018/5/8/lebron-cavs-completan-barrida-303082.html"><img src="/u/fotografias/m/2018/5/7/f180x103-370134_372800_47.jpg" border="0" width="180" alt="LeBron y los Cavs completan barrida" /></a> </div>
+
+                    <div class="cont wl430">
+                      <div class="volanta">#NBAPLAYOFFS</div>
+                      <h5><a href="/deportes/baloncesto/2018/5/8/lebron-cavs-completan-barrida-303082.html">LeBron y los Cavs completan barrida</a></h5>
+                        <p><span class="hora">08/05/2018&nbsp;|&nbsp;</span>Cleveland eliminó a los Raptors de Torontom y avanzó a la Final de la Conferencia Este</p>
+                        
+                     
+                          <div class="nota_herramientas">
+        <div class="nota_compartir">
+                                  <a href="javascript:Popup('http://www.facebook.com/sharer/sharer.php?u=http://www.elvigia.net/deportes/baloncesto/2018/5/8/lebron-cavs-completan-barrida-303082.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_face.png" alt="" /></a>
+                                  <a href="javascript:Popup('http://twitter.com/share?url=http://www.elvigia.net/deportes/baloncesto/2018/5/8/lebron-cavs-completan-barrida-303082.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_twt.png" alt="" /></a>
+                                  <a href="javascript:Popup('https://plus.google.com/share?url=http://www.elvigia.net/deportes/baloncesto/2018/5/8/lebron-cavs-completan-barrida-303082.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_plus.png" alt="" /></a>
+                              </div>
+         <div class="comentarios"><a href="/deportes/baloncesto/2018/5/8/lebron-cavs-completan-barrida-303082.html#comentarios">0</a></div>
+    </div>
+                    </div>
+
+
+</div>
+
+
+       <div class="nota620_apaisada nota">
+
+                    <div class="fotoNota w180" style="min-height:5px;">
+                                        <a href="/deportes/beisbol/2018/5/8/aporta-titn-triunfo-mets-303083.html"><img src="/u/fotografias/m/2018/5/7/f180x103-370135_372801_15.jpg" border="0" width="180" alt="Aporta ‘Titán’ en triunfo de Mets" /></a> </div>
+
+                    <div class="cont wl430">
+                      <div class="volanta">META DEPORTIVA</div>
+                      <h5><a href="/deportes/beisbol/2018/5/8/aporta-titn-triunfo-mets-303083.html">Aporta ‘Titán’ en triunfo de Mets</a></h5>
+                        <p><span class="hora">08/05/2018&nbsp;|&nbsp;</span></p>
+                        
+                     
+                          <div class="nota_herramientas">
+        <div class="nota_compartir">
+                                  <a href="javascript:Popup('http://www.facebook.com/sharer/sharer.php?u=http://www.elvigia.net/deportes/beisbol/2018/5/8/aporta-titn-triunfo-mets-303083.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_face.png" alt="" /></a>
+                                  <a href="javascript:Popup('http://twitter.com/share?url=http://www.elvigia.net/deportes/beisbol/2018/5/8/aporta-titn-triunfo-mets-303083.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_twt.png" alt="" /></a>
+                                  <a href="javascript:Popup('https://plus.google.com/share?url=http://www.elvigia.net/deportes/beisbol/2018/5/8/aporta-titn-triunfo-mets-303083.html','envio',700,435,'no','yes');"><img src="/a/plantillas/1/imgs/compartir_plus.png" alt="" /></a>
+                              </div>
+         <div class="comentarios"><a href="/deportes/beisbol/2018/5/8/aporta-titn-triunfo-mets-303083.html#comentarios">0</a></div>
+    </div>
+                    </div>
+
+
+</div>
+
+ 
+    
+</div>
+<div class="botonvermas" onClick="maslistadoUN()" id="vermasboton">VER M&Aacute;S</div> 
+
+                
+                </div>
+                <div class="col2 sticky_column"><div class="  bnn"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Generico 160x600 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-3504695253334741"
+     data-ad-slot="1015001119"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><div class="  caja nota"><div class="cabezal">RANKING DE NOTICIAS</div>
+	
+<!-- Inicia #tabs-masleidas -->
+
+<div class="ranking" id="tabs-masleidas">
+		
+        <ul class="tabs nav-tabs">
+            <li><a href="#mas-cont-1">Top 5 del día</a></li>
+            <li><a href="#mas-cont-2">Top 5 del mes</a></li>
+            <li><a href="#mas-cont-3">Comentadas</a></li>
+        </ul>
+
+
+
+<!-- ini panes --><div class="panes">
+
+
+
+
+<!-- TOP 5 DEL DIA =========================  -->
+
+  
+  <ul class="mt10" id="mas-cont-1">
+
+
+<li class="nro1">
+
+<a href="/general/2018/5/8/piden-cerrar-bulevar-costero-durante-eventos-303017.html">Piden no cerrar Bulevar Costero durante eventos</a>
+</li>
+
+<li class="nro2">
+
+<a href="/general/2018/5/8/inauguran-ensenada-distribuciones-rembao-303020.html">Inauguran en Ensenada Distribuciones Rembao</a>
+</li>
+
+<li class="nro3">
+
+<a href="/911/2018/5/8/roban-sujetos-droga-bodega-303065.html">Roban sujetos droga de bodega de la PGR</a>
+</li>
+
+<li class="nro4">
+
+<a href="/911/2018/5/8/arrestan-presunto-asaltante-gerente-303064.html">Arrestan a presunto asaltante de gerente</a>
+</li>
+
+<li class="nro5">
+
+<a href="/general/2018/5/8/donan-uabc-aeronaves-303019.html">Donan a UABC par de aeronaves</a>
+</li>
+                    
+
+</ul>
+
+
+<!-- TOP 5 DEL MES =========================  -->
+
+
+<ul class="mt10" id="mas-cont-2">
+
+
+<li class="nro1">
+	<a href="/911/2018/4/21/asesinan-hombre-zona-cntrica-301749.html">Asesinan a hombre en zona céntrica</a></li>
+	<li class="nro2">
+	<a href="/general/2018/4/20/asesinan-cinco-menos-horas-301601.html">Asesinan a cinco en  menos de 12 horas</a></li>
+	<li class="nro3">
+	<a href="/911/2018/4/26/pierde-vida-estudiante-volcadura-302149.html">Pierde la vida estudiante en volcadura</a></li>
+	<li class="nro4">
+	<a href="/general/2018/4/28/buscan-padre-familia-desaparecido-302318.html">Buscan a padre de familia desaparecido</a></li>
+	<li class="nro5">
+	<a href="/general/2018/4/19/matan-hombre-lesionan-mujer-ataque-armado-301527.html">Matan a hombre y lesionan  a mujer en ataque armado</a></li>
+	  
+
+</ul>
+     
+                
+                
+<!-- MAS COMENTADAS =========================  -->
+
+
+<ul class="mt10"  id="mas-cont-3" >
+
+		
+        <li class="nro1">
+
+        
+        
+        
+        <a href="/general/2018/5/8/piden-cerrar-bulevar-costero-durante-eventos-303017.html">Piden no cerrar Bulevar Costero durante eventos</a></li>
+        
+        <li class="nro2">
+
+        
+        
+        
+        <a href="/general/2018/5/8/lamenta-armando-campaa-negra-303029.html">Lamenta Armando  “campaña negra”</a></li>
+        
+        <li class="nro3">
+
+        
+        
+        
+        <a href="/general/2018/5/8/exigen-detener-tiradero-presa-303078.html">Exigen detener tiradero en presa</a></li>
+        
+        <li class="nro4">
+
+        
+        
+        
+        <a href="/general/2018/5/8/confirmarse-visita-meade-ensenada-303027.html">Sin confirmarse visita  de Meade a Ensenada</a></li>
+        
+        <li class="nro5">
+
+        
+        
+        
+        <a href="/nacional/2018/5/8/cuestiona-mxico-informe-303073.html">Cuestiona México informe de la ONU</a></li>
+        
+	</ul>
+    
+               
+  </div><!-- FIN panes -->
+  
+</div><!-- fin #tabs-masleidas -->
+</div><div class="  caja nota"><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Felvigia&width=300&height=290&colorscheme=light&show_faces=true&header=true&stream=false&show_border=true&appId=1411131939112576" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:290px;" allowTransparency="true"></iframe></div><div class="  bnn"><div id='div-gpt-ad-derecha(1)'><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-derecha(1)'); });</script></div></div><div class="  bnn"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300x250 Gen -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3504695253334741"
+     data-ad-slot="2851661119"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>
+            </div>
+        
+        </div> 
+    </div>   
+    </div>
+</div>        	
+ 			
+
+<div class="contenedor">
+<div class="col3">
+<div class="wrap col3_cont">
+  <div class="contenedor">
+      <div class="pie_contenedor">
+          <div style="padding:30px 60px 50px 60px; position:relative; display:inline-block;">
+            <div class="datos_contacto"><a href="/"><img src="/a/plantillas/1/p/25/imgs/el-vigia-logo-pie.jpg" height="55" width="232" /></a></div>
+            
+            <div class="pielinks" >
+                <div class="f-left">
+                   <a href="javascript:void(0)" class="irarriba"><img src="/a/plantillas/1/p/25/imgs/ir-arriba.jpg" height="12" width="20" /> IR ARRIBA</a>
+                   <a href="http://www.elvigia.net/p/institucional/terminos-condiciones-de-uso-privacidad.html">| &nbsp; &nbsp; Políticas de Privacidad</a>
+                   <a href="/u/aps/usuarios/newsletter.html">| &nbsp; &nbsp; Suscripción</a>
+                </div>
+            </div>
+          </div>
+                 
+          <div style="padding:0px 70px 40px 70px; display:inline-block;">
+            <div class="especiales">
+              <div class="titulo_pie">LINKS</div>
+               <ul>
+                  <li><a href="/noticias/">Ultimas Noticias</a></li>
+                  <li><a href="/columnas/">Columnas</a></li>
+                  <li><a href="/u/aps/consultas/consultas.html">Circulación</a></li>
+                  <li><a href="/u/aps/horoscopo/">Horóscopos</a></li>
+                  <li><a href="/ediciones-impresas/">Edición Impresa</a></li>
+                  <li><a href="/archivo/2018/5/8/">Archivo</a></li>
+                  <li><a href="/p/institucional/directorio.html">Directorio</a></li>
+                  <li><a href="/clasificados/">Clasificados</a></li>
+               </ul>
+            </div>
+            
+            
+            <div class="seguinos">  
+              <div class="titulo_pie">BÚSCANOS EN:</div>
+              
+            
+              <div class="f-left">
+                 <a href="http://www.facebook.com/elvigia" target="_blank"><img src="/a/plantillas/1/p/25/imgs/face.jpg" height="37" width="37" /></a>
+                  <a href="http://twitter.com/elvigia" target="_blank"><img src="/a/plantillas/1/p/25/imgs/twt.jpg" height="37" width="37" /></a>
+                  <a href="http://www.youtube.com/periodicoelvigia" target="_blank"><img src="/a/plantillas/1/p/25/imgs/youtube.jpg" height="37" width="37" /></a>
+                  <a href="#" target="_blank"><img src="/a/plantillas/1/p/25/imgs/rss.jpg" height="37" width="37" /></a>
+               </div>
+            </div>
+            
+            <div class="loguitos">
+               <img src="/a/plantillas/1/p/25/imgs/el-vigia-loguito1.jpg" height="39" width="100" />
+               <img src="/a/plantillas/1/p/25/imgs/el-vigia-loguito2.jpg" height="40" width="100" />
+            </div>
+          </div>
+
+          <div class="pie_datos">
+             <p>2002 - 2018 Todos los derechos reservados. EDITORIAL EL VIGIA S.A De C.V <br/>
+                De no existir previa autorización queda expresamente prohibida la publicación, retransmisión, edición y cualquier otro uso de los contenidos</p>
+              <a href="http://www.editor80.com" target="_blank" class="editor80">
+                <img src="/a/plantillas/1/p/25/imgs/editor80.jpg" height="31" width="73" />
+              </a>
+          </div>
+          
+          <div class="clear"></div>
+        
+      </div>
+  </div>
+</div>
+</div>
+</div>
+
+</body>
+</html>
